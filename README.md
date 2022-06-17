@@ -1,0 +1,2 @@
+# haskell
+Educational haskell tinkerings
